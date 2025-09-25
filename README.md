@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome e Gustavo</h2>
+<h2 align="center">Olá 👋! Meu nome e Gustavo Jose Sacramento da Silva</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/a77jot"  />
+<img align="right" height="150" src="https://imgflip.com/gif/a77qqy"  />
 
 ###
 
