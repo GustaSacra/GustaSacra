@@ -6,9 +6,14 @@
 
 ###
 
-<img align="right" height="150" src="[https://imgflip.com/gif/a77qqy](https://imgflip.com/i/a77r24)"  />
+<!-- GitHub Stats e Linguagens -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaSacrashow_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaSacra&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-###
+<!-- Tecnologias -->
+### 🧠 Tecnologias que estou estudando
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
@@ -36,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
 </div>
 
-###
+###📫 Onde me encontrar:
 
 <div align="left">
   <a href="Mygodgusta" target="_blank">
